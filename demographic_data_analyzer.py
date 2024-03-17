@@ -73,3 +73,5 @@ if __name__ == "__main__":
     df = pd.read_csv("adult.data.csv")
     print(df.columns)
     calculate_demographic_data(True)
+
+# hello
